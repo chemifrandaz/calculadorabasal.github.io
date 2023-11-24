@@ -1,0 +1,25 @@
+body {
+    background: 4f6f5f;
+font-family: sans-serif ; 
+color: black
+}
+div {
+    background-color: pink;
+    width: 60vw;
+    height: 50vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+=details {
+
+background-color: blue;
+height: 100%;
+width: 50%;
+float: left;
+}
+
